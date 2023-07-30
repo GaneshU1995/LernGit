@@ -1,0 +1,12 @@
+﻿Create Database AllData1;
+show database;
+use alldata1;
+create  table student(id int , name varchar(20), cid int );
+show table;
+desc student;
+insert into student values(3,'Sagare',300);
+SELECT * FROM student s;
+
+
+
+
